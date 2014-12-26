@@ -1,0 +1,3 @@
+[submodule "gitSceneriosTest/Libraries/gitSubmoduleTest"]
+	path = gitSceneriosTest/Libraries/gitSubmoduleTest
+	url = https://github.com/verazeng/gitSubmoduleTest.git
