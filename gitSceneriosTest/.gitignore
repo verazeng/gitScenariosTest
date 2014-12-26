@@ -1,1 +1,3 @@
-*.xcuserdatad
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
