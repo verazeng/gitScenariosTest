@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface FirstViewController : UIViewController
-
+@property (nonatomic) NSString *test;
 
 @end
 
